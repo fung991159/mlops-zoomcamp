@@ -1,1 +1,1 @@
-test
+Teaching myself MLOps by following [DataTalksClub's mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
